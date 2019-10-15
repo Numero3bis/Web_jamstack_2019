@@ -1,7 +1,7 @@
 ---
 title: "Clavier Logitech - MX Keys"
 author: "Nicolas"
-price: 110.00$
+price: 110.00
 slug: "clavier-logitech-mx-keys"
 imageUrl: "https://assets.logitech.com/assets/65781/103/mx-keys.png"
 ---
