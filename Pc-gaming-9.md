@@ -1,8 +1,8 @@
 ---
-title: PC portable ACER A114-31-C5JFCEL/4/32
-slug: pc-portable-acer-a114-31-432
+title: "PC portable ACER A114-31-C5JFCEL432"
+slug: "pc-portable-acer-a114-31-432"
 price: 259
-imageurl: "https://image.darty.com/informatique/ordinateur_portable-portable/portable/acer_a114-31-c5jfcel_4_32_s1905034688112A_142813045.jpg"
+imageUrl: "https://image.darty.com/informatique/ordinateur_portable-portable/portable/acer_a114-31-c5jfcel_4_32_s1905034688112A_142813045.jpg"
 author: Acer
 ---
 
