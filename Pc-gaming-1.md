@@ -1,9 +1,9 @@
 ---
-title: Ordinateur portable HP Pavilion Gaming 15-cx0009nf
-slug: ordinateur-portable-hp-pavilion-gaming-15-cx0009nf
+title: "Ordinateur portable HP Pavilion Gaming 15-cx0009nf"
+slug: "ordinateur-portable-hp-pavilion-gaming-15-cx0009nf"
 price: 379
 imageurl: "https://image.darty.com/informatique/ordinateur_portable-portable/portable/hp_15db0095a9_4_56_r5_s1908274719468A_115411207.jpg"
-author: HP
+author: "HP"
 ---
 
 HP  15-db0095nf  : des performances fiables et un design élégant  !
