@@ -1,6 +1,6 @@
 ---
-title: PC portable MSI GL63 9SE-1039FR
-slug: pc-portable-msi-gl63-9se-1039fr
+title: "PC portable MSI GL63 9SE-1039FR"
+slug: "pc-portable-msi-gl63-9se-1039fr"
 price: 2482
 imageurl: "https://image.darty.com/informatique/ordinateur_portable-portable/portable/msi_gl639i7_16_1_56_2060_s1908024723252A_101837279.jpg"
 author: Msi
