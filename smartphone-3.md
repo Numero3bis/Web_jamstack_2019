@@ -1,5 +1,5 @@
 ---
-title: "Apple iPhone 11 Pro Max 64 Go 6.5" Gris Sidéral"
+title: "Apple iPhone 11 Pro Max 64 Go 6.5 Gris Sidéral"
 author: "Nicolas"
 price: 1779.99
 slug: "apple-iphone-11-pro-max-64-go-6.5-gris-sidéral"
