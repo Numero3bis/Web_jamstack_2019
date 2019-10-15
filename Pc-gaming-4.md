@@ -2,7 +2,7 @@
 title: "PC portable DELL INSPIRON173781 MYPNK"
 slug: "pc-portable-dell-inspiron173781-mypnk"
 price: 621
-imageurl: "https://image.darty.com/informatique/ordinateur_portable-portable/portable/dell_insp173781mypni3_8_1_s1908164715063A_122127317.jpg"
+imageUrl: "https://image.darty.com/informatique/ordinateur_portable-portable/portable/dell_insp173781mypni3_8_1_s1908164715063A_122127317.jpg"
 author: Dell
 ---
 
