@@ -1,8 +1,8 @@
 ---
-title: PC portable ASUS TUF505DD-AL041T 
-slug: pc-portable-asus-tuf505dd-al041t
+title: "PC portable ASUS TUF505DD-AL041T" 
+slug: "pc-portable-asus-tuf505dd-al041t"
 price: 799
-imageurl: https://image.darty.com/informatique/ordinateur_portable-portable/portable/asus_tuf505dry5_8_1_56_50_s1908014717120A_120342757.jpg
+imageurl: "https://image.darty.com/informatique/ordinateur_portable-portable/portable/asus_tuf505dry5_8_1_56_50_s1908014717120A_120342757.jpg"
 author: Asus
 ---
 Asus  TUF505DD-AL041T  : une puissance monstrueuse dans un minimum d'espace !
