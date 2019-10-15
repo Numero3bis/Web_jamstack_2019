@@ -1,8 +1,8 @@
 ---
-title: PC portable ASUS S512FA-EJ835T
-slug: pc-portable-asus-s512fa-ej835t
-price: 
-imageurl:https://image.darty.com/informatique/ordinateur_portable-portable/portable/asus_s512faej835i7_4_12_s1909254714350B_112405341.jpg
+title: "PC portable ASUS S512FA-EJ835T"
+slug: "pc-portable-asus-s512fa-ej835t"
+price: 567
+imageUrl: "https://image.darty.com/informatique/ordinateur_portable-portable/portable/asus_s512faej835i7_4_12_s1909254714350B_112405341.jpg"
 author: Asus
 ---
 
