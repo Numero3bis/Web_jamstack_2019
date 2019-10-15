@@ -1,5 +1,5 @@
 ---
-title: "Smartphone Huawei P30 Pro 128 GB 6.47" Bleu mystique"
+title: "Smartphone Huawei P30 Pro 128 GB 6.47 Bleu mystique"
 author: "Nicolas"
 price: 849
 slug: "smartphone-huawei-p30-pro-128-gb-6.47-bleu-mystique"
