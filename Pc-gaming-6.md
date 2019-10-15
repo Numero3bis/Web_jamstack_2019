@@ -1,8 +1,8 @@
 ---
-title: PC portable ACER ASPIRE A515-54-54T6
-slug: pc-portable-acer-aspire-a515-54-54t6
+title: "PC portable ACER ASPIRE A515-54-54T6"
+slug: "pc-portable-acer-aspire-a515-54-54t6"
 price: 639
-imageurl: https://image.darty.com/informatique/ordinateur_portable-portable/portable/acer_aspa5155454t6i5_8_12_s1910014729030A_180722480.jpg
+imageurl: "https://image.darty.com/informatique/ordinateur_portable-portable/portable/acer_aspa5155454t6i5_8_12_s1910014729030A_180722480.jpg"
 author: Acer
 ---
 
