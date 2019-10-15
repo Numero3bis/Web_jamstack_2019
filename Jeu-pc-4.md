@@ -1,6 +1,6 @@
 ---
-title: "Counter Strike: Global Offensive
-author: "Nicolas
+title: "Counter Strike: Global Offensive"
+author: "Nicolas"
 price: 14.99
 slug: "counter-strike-global-offensive"
 imageUrl: "https://s3.gaming-cdn.com/images/products/62/271x377/counter-strike-global-offensive-prime-status-upgrade-cover.jpg"
