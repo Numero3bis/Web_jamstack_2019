@@ -1,5 +1,5 @@
 ---
-title: "Smartphone OnePlus 7T Pro 6.6" 8 Go RAM et 256 Go Haze Blue"
+title: "Smartphone OnePlus 7T Pro 6.6 8 Go RAM et 256 Go Haze Blue"
 author: "Nicolas"
 price: 759
 slug: "smartphone-oneplus-7t-pro-6.6--8-go-ram-et-256-go-haze-blue"
