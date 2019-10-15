@@ -2,7 +2,7 @@
 title: PC portable ASUS C423NA-BV0051
 slug: pc-portable_asus-c423na-bv0051
 price: 319
-imageurl: https://image.darty.com/informatique/ordinateur_portable-portable/portable/asus_cb_423na-bv5cel_4_64_s1909054714016A_180213759.jpg
+imageUrl: https://image.darty.com/informatique/ordinateur_portable-portable/portable/asus_cb_423na-bv5cel_4_64_s1909054714016A_180213759.jpg
 author: Asus
 ---
 
