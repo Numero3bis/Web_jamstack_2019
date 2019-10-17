@@ -5,9 +5,6 @@ price: 219
 imageUrl: "https://image.darty.com/informatique/ordinateur_portable-portable/portable/thomson_neo14c-4bk64_s1811194498933A_150729787.jpg"
 author: Thomson
 ---
-PROCESSEUR	
-Modèle du processeur	
-Celeron® N3350
-Fréquence	
-1,1 GHz
-MEMOIRE ET STOCKAGE	
+Ordinateur lent, avec une bonne capacité certes, mais compliqué à utilisé. Aucune fluidité, lent à charger des pages sur internet.
+Je vous déconseille ! Se décharge rapidement.
+C'est la première et dernière fois que j'achète ce produit ! Nul!
