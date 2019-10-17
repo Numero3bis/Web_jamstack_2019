@@ -8,4 +8,4 @@ imageUrl: "https://static.fnac-static.com/multimedia/Images/FR/MDM/06/d0/c1/1270
 
 Un mobile, 2 écrans dont un pliable !
 
-Ce nouveau smartphone embarque en effet un écran externe SuperAMOLED de 4,6’’ HD+ et un écran intérieur DynamicAMOLED de 7,3’’QXGA+ pliable et dépliable en fonction de vos besoins et de vos envies ! Et Samsung a pensé à tout: avec App Continuity, passez d'un écran à l'autre en un instant ! Imaginez: vous visualisez l'emplacement GPS d'un rendez-vous sur l'écran extérieur... et d'un geste vous basculez sur votre écran de 7,3’’ afin de voir, avec précison, l'ensemble des rues, services et commerces à proximité !
+Ce nouveau smartphone embarque en effet un écran externe SuperAMOLED de 4,6’’ HD+ et un écran intérieur DynamicAMOLED de 7,3’’QXGA+ pliable et dépliable en fonction de vos besoins et de vos envies ! Et Samsung a pensé à tout: avec App Continuity, passez d'un écran à l'autre en un instant ! 
