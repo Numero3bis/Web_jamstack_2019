@@ -7,5 +7,4 @@ author: "HP"
 ---
 
 HP  15-db0095nf  : des performances fiables et un design élégant  !
-
-Avec son châssis noir et son design épuré, l'ordinateur portable HP 15-db0095nf vous apporte les mêmes avantages qu'un ordinateur de bureau. Disposant d'un écran WLED 15,6" HD, il est parfaitement fiable et adapté à la gestion de votre univers multimédia au quotidien. Avec ses multiples ports de connectivité , il a spécialement été conçu pour optimiser votre productivité en toutes circonstances et vous apporter entière satisfaction.
+Avec son châssis noir et son design épuré, l'ordinateur portable HP 15-db0095nf vous apporte les mêmes avantages qu'un ordinateur de bureau. Disposant d'un écran WLED 15,6" HD, il est parfaitement fiable et adapté à la gestion de votre univers multimédia au quotidien.
